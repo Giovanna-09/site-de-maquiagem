@@ -1,0 +1,59 @@
+body {
+    color: black;
+    background: #FCEDDA;
+    margin: 0px
+   }
+   
+   header{
+     border-bottom: solid 2px black;
+     padding: 20px;
+     font-size: 32px;
+   }
+   
+   section{
+     display: flex;
+     justify-content: height;
+     background: #F8D4D2;
+     padding-bottom: 20px;
+     padding-top: 20px;
+     padding-left: 20px;
+     padding-right: 20px;
+   }
+   
+   
+   .chamada-texto {
+     margin-right: 5%
+   }
+   
+   .chamada-margem{
+     margin-left: 10%
+   }
+   
+   
+   .margem{
+     margin-right: 35%
+   }
+   
+   
+   .margem{
+     margin-top: 12%
+   }
+   
+   
+   
+   
+   h1{
+     font-size: 45px
+   }
+   
+   p{
+     font-size: 20px
+   }
+   
+   h2{
+     font-size: 30px
+   }
+   
+   h3{
+     font-size: 25px
+   }
